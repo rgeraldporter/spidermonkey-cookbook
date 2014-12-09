@@ -2,6 +2,7 @@
 # Cookbook Name:: spidermonkey
 # Recipe:: default
 #
+# Copyright 2014, Rob Porter <rob@weeverapps.com>
 # Copyright 2011, Cloudant
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

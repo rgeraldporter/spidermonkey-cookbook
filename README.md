@@ -11,3 +11,8 @@ In your Vagrant role file, add
     "recipe[spidermonkey]"
     
 to your `run_list`.
+
+Notes
+=====
+
+Untested thus far on Ubuntu, but should work.
